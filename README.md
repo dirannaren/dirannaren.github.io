@@ -3,14 +3,19 @@
 
 ## Narendiran Unnikrishnan S
 
-Address	: Chennai, India – 600045. 
+Address	: Chennai, India – 600045
 
-Email     : dirannaren@hotmail.com     
+Home Address	: Thanjavur, India – 613001
+
+Email     : dirannaren@hotmail.com
+
+Mobile : +91 9791 486 777
 
 
 **OBJECTIVE**
 
 I am seeking opportunities to apply my knowledge in complex, core, large-scale real-time projects where I would like to be a strong part of the role and involved in multiple technology stacks.
+
 
 **PROFILE SUMMARY**
 
@@ -52,36 +57,38 @@ Mobile technologies (Android)
 
 **TECHNOLOGY PORTFOLIO**
 
-Programming Language : Python, C# 
+Programming Languages:  Python, C#, JavaScript 
 
-Web technologies: Django, Flask, Asp. Net, Asp.net MVC/Razor, Web API2, FEDERATION services, Identity Framework, Html, CSS, JavaScript, jQuery, Electron JS 
+Core Stacks (current): Django, Flask, React, Node, Web Socket, Kafka, RabbitMQ
 
-Socket Programming  :  Signal-R, Node WS 
+Past:  Asp. Net, Asp.net MVC/Razor, Web API2, FEDERATION services, Identity Framework, jQuery, Electron JS 
 
-Windows Programming : Win32 API  
+Windows Programming: Win32 API  
 
-Other tools : Mono/Ubuntu, H-mail, Virtual box, Photoshop Cs6, Blender, Proxy, NLB tools 
+Other tools:  Kali Linux Tools, H-mail, Virtual box, Photoshop Cs6, Blender, Proxy, VM Ware Player 
 
-Source control : SVN, Mercurial, Git 
+Source control:  SVN, Mercurial, Git 
 
-Web Server : IIS 8, Nginx 
+Web Server:  IIS 8, Nginx 
 
-Database : Microsoft SQL Server, Mongo 
+Database:  Microsoft SQL Server, Mongo 
 
+Security and Monitoring: SAST, DAST, SCA, Web Security 
+
+Infrastructure Solutions: On-premise infrastructure, AWS, , Kubernetes
+
+ 
+**WORKSHOP/SEMINARS**
+
+Conducted web application development seminars for college students 
+
+Conducted windows phone app development seminar for college students   
+
+Conducted Ethical hacking seminar (live session) topics on “SQL Injection, Broken Authentication, Cookies Hijacking, R2 Forgery, Layer 7 Attacks Using custom client scripts and Dorks. 
 
  
 
-WORKSHOP/SEMINARS 
-
-Conducted web application development in ASP. Net  
-
-Conducted windows phone app development 7.8”  
-
-Conducted Ethical hacking seminar topics on “SQL Injection, Broken Authentication, Cookies Hijacking, R2 Forgery, Layer 7 Attacks Using custom client scripts and Dorks. 
-
- 
-
-EXTRA-CURRICULAR 
+**EXTRA-CURRICULAR** 
 
 I have configured my own home networking virtual environment setup for my own purposes (File, Proxy, Database, NLB and SMTP server configuration). 
 
@@ -93,6 +100,6 @@ Working on custom monitoring tool for medium scale organizations using python op
 
  
 
-HOBBIES/INTEREST 
+**HOBBIES/INTEREST** 
 
 To learn advanced technologies, Code and Tool Based Ethical Hacking, rules and concepts behind the Networking protocols. 
