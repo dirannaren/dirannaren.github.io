@@ -12,11 +12,6 @@ Email     : dirannaren@hotmail.com
 Mobile : +91 9791 486 777
 
 
-**OBJECTIVE**
-
-I am seeking opportunities to apply my knowledge in complex, core, large-scale real-time projects where I would like to be a strong part of the role and involved in multiple technology stacks.
-
-
 **PROFILE SUMMARY**
 
 Web development, release management, offshore development operations
